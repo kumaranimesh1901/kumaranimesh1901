@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumaranimesh1901
+- 👋 Hi, I’m @kumaranimesh
 - 👀 I’m interested in ... data science
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...web development project
