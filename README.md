@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... data science
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...web development project
-- 📫 How to reach me ..animeshk980@gmail.com
+- 📫 How to reach me ..kumaranimesh.work@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
