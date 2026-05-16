@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/kumaranimesh1901">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6EF7&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there!+I'm+Kumar+Animesh+👋;B.E.+CSE+%28Data+Science%29+%40+RVCE;Building+AI+%2B+Cybersecurity+Systems;📊+Data+Science+%7C+ML+%7C+Deep+Learning;🛡️+Network+Security+%7C+Intrusion+Detection;90%2B+LeetCode+%7C+83%2B+GFG+Solved;Open+to+SDE+%2F+Data+Science+Internships+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6EF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Kumar+Animesh+👋;B.E.+CSE+%28Data+Science%29+%40+RVCE;Building+AI+%2B+Cybersecurity+Systems;📊+Data+Science+%7C+ML+%7C+Deep+Learning;🛡️+Network+Security+%7C+Intrusion+Detection;90%2B+LeetCode+%7C+83%2B+GFG+Solved;Open+to+SDE+%2F+Data+Science+Internships+🚀" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,8 +25,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-animesh1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumaranimesh1901)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kumaranimesh1901/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/animest)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumaranimesh)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kumaranimesh)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumaranimesh.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c6ef7?style=for-the-badge&logo=vercel&logoColor=white)](https://kumaranimesh1901.github.io)
 
