@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Neon Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c6ef7,50:3ecfb2,100:f7a76c&height=220&section=header&text=Kumar%20Animesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🛡️%20Cybersecurity%20%7C%20🤖%20Machine%20Learning%20%7C%20💻%20Software%20Engineer&descAlignY=62&descColor=d0ccff&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c6ef7,50:3ecfb2,100:f7a76c&height=220&section=header&text=Kumar%20Animesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🛡️%20Cybersecurity%20%7C%20🤖%20Machine%20Learning%20%7C%20📊%20Data%20Science%20%7C%20💻%20Software%20Engineer&descAlignY=62&descColor=d0ccff&descSize=16" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/kumaranimesh1901">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6EF7&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Kumar+Animesh+👋;B.E.+CSE+%28Data+Science%29+%40+RVCE;Building+AI+%2B+Cybersecurity+Systems;90%2B+LeetCode+%7C+83%2B+GFG+Solved;Open+to+SDE+Internships+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6EF7&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there!+I'm+Kumar+Animesh+👋;B.E.+CSE+%28Data+Science%29+%40+RVCE;Building+AI+%2B+Cybersecurity+Systems;📊+Data+Science+%7C+ML+%7C+Deep+Learning;🛡️+Network+Security+%7C+Intrusion+Detection;90%2B+LeetCode+%7C+83%2B+GFG+Solved;Open+to+SDE+%2F+Data+Science+Internships+🚀" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,7 +45,7 @@ class KumarAnimesh:
         self.cgpa        = 8.05
         self.location    = "Bengaluru, India 📍"
         self.languages   = ["C", "C++ (STL, OOP)", "Python"]
-        self.focus       = ["Machine Learning", "Cybersecurity", "SDE"]
+        self.focus       = ["Machine Learning", "Data Science", "Cybersecurity", "SDE"]
         self.cp_solved   = {"LeetCode": "90+", "GeeksforGeeks": "83+"}
         self.open_to     = "SDE / ML Internships 🚀"
         self.hobbies     = ["♟️ Chess", "🎮 Gaming", "🍳 Cooking", "✈️ Travelling"]
@@ -168,6 +168,7 @@ Dynamic Programming · Recursion · Sorting
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-3ecfb2?style=for-the-badge&logo=databricks&logoColor=white)
 
 **🔧 Tools & Databases**
 
